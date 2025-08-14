@@ -8,8 +8,9 @@ Low-cost tester for verifying the **colour sequence** and **continuity** of 5-co
 
 ## 📜 Overview
 
-This device checks if both ends of a cable have the **same wire colour sequence** and ensures **continuity**.  
-It was developed as a more efficient alternative to the manual continuity tester for the Harness Department at Cable Solutions (Pvt) Ltd.
+This device verifies that both ends of a cable have the **same wire color sequence** and ensures **continuity**.
+
+It was developed as a more efficient alternative to the manual continuity tester used by the Harness Department at Cable Solutions (Pvt) Ltd.
 
 ---
 
