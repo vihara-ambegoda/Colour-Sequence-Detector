@@ -48,15 +48,10 @@ It was developed as a more efficient alternative to the manual continuity tester
 ## 📷 Project Images
 
 **Simulation (Proteus 8 Professional):**  
-![Simulation Screenshot](images/simulation.png)  
+![Simulation Screenshot](schemetic.png)  
 
 **Breadboard Prototype:**  
-![Breadboard Build](images/breadboard.png)  
-
----
-
-## 📐 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)  
+![Breadboard Build](prototype.png)  
 
 ---
 
@@ -64,5 +59,20 @@ It was developed as a more efficient alternative to the manual continuity tester
 
 - Expand to test **up to 10 cores**.  
 - Build into a **durable production-line-ready enclosure**.  
+
+---
+
+## 🛠 Tools & Software Used
+- **Simulation Software:** Proteus 8 Professional
+
+---
+
+## 📄 License
+This project is shared for educational purposes. Please give credit if you use it.
+
+---
+
+## 📬 Contact
+If you have feedback or suggestions, feel free to [open an issue](https://github.com).
 
 ---
